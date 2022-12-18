@@ -6,12 +6,15 @@ Skills for Data Science:
    -   Mathematics
           - the study of numbers and their relationships, applying these principles to models of real phenomena. ( Calculus, Linear Algebra )
    -   Statistical Programming
+          - the set of programming languages and tools used to create statistical models and algorithms ( R, Python )
    -   Data Visualization
           - involves the creation and study of visual representations of data to communicate information clearly and efficiently ( Tableau, Plotting Data )
    -   Data Analysis
+          - the process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making ( Exploratory Data Analysis, Spatial Data Analysis )
    -   Data Management
           - comprises everything related to managing and accessing data for reporting, analysis, and model building ( Cloud APIs, Hadoop )
    -   Probability & Statistics
+          - deals with all aspects of data collection, organization, analysis, interpretation, and presentation. ( Regression, AB Testing )
 
 ##Objective: 
 to demonstate my strong, individual programming skills and understanding.
