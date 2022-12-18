@@ -24,7 +24,7 @@ DISCLAIMER: lists and code guided by chatGPT.
 (EG>)
 
 
-give me a list of machine learning projects that every ML engineer should know
+list of MACHINE LEARNING projects that every ML engineer should know
 
 1. Image Recognition: Building a model to recognize and classify objects in images.
 2. Natural Language Processing: Building models to process and generate natural language.
@@ -37,12 +37,8 @@ give me a list of machine learning projects that every ML engineer should know
 9. Generative Models: Building models to generate new data from existing data.
 10. Object Detection: Building models to detect and localize objects in images.
 
-What does it take to be prepared to be a Machine Learning Engineer? 
-   -   understanding of the various approaches in ML based on data input and objective. 
-   -   Capability to combine methods into ML systems. 
 
-
-list of ten projects to demonstrate strong skills in mathematics
+list of MATHEMATICS projects
 
 1. Linear Regression: Building a model to predict values of a continuous target variable.
 2. Logistic Regression: Building a model to predict values of a binary target variable.
@@ -56,7 +52,7 @@ list of ten projects to demonstrate strong skills in mathematics
 10. Fourier Analysis: Building a model to analyze periodic signals to identify the frequency components.
 
 
-list of ten projects to demonstrate strong skills in statistical programming
+list of STATISTICAL PROGRAMMING PROJECTS
 
 1. Data Visualization: Building visualizations to explore and communicate insights from data.
 2. Bayesian Inference: Building models to draw inference from data using Bayesian methods.
@@ -70,7 +66,7 @@ list of ten projects to demonstrate strong skills in statistical programming
 10. Survival Analysis: Building models to estimate the expected duration of events.
 
 
-list of ten projects to demonstrate strong skills in Data Visualization
+list of DATA VISUALIZATION projects
 
 1. Geographic visualization: Using maps to visualize data geographically.
 2. Network visualization: Using graphs to visualize relationships between data points.
@@ -84,7 +80,7 @@ list of ten projects to demonstrate strong skills in Data Visualization
 10. Political visualization: Using maps to visualize political data.
 
 
-list of ten projects to demonstrate strong skills in Data Analysis
+list of DATA ANALYSIS projects
 
 1. Exploratory Data Analysis: Analyzing large datasets to identify trends, correlations, and outliers.
 2. Predictive Modeling: Building models to predict future outcomes.
@@ -98,7 +94,7 @@ list of ten projects to demonstrate strong skills in Data Analysis
 10. Geographic Analysis: Analyzing spatial data to draw insights.
 
 
-list of ten projects to demonstrate strong skills in Data Management
+list of DATA MANAGEMENT projects
 
 1. Data Warehouse Design: Designing a data warehouse to store and analyze large volumes of data.
 2. Data Integration: Integrating data from different sources into a unified format.
@@ -112,7 +108,7 @@ list of ten projects to demonstrate strong skills in Data Management
 10. Big Data Analysis: Analyzing large datasets using distributed systems.
 
 
-list of ten projects to demonstrate strong skills in Probability and Statistics
+list of PROBABILITY & STATISTICS projects
 
 1. Monte Carlo Simulation: Building a model to simulate random outcomes.
 2. Linear Regression: Building a linear regression model to predict outcomes.
