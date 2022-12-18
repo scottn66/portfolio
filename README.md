@@ -1,5 +1,17 @@
 # portfolio
 A composition of previous work, tools, and algorithms 
+Skills for Data Science:
+   -   Machine Learning
+          - creates algorithms and statistical models that computer systems can use to perform a specific task without explicit instructions. ( multi-task learning, Deep Learning ) 
+   -   Mathematics
+          - the study of numbers and their relationships, applying these principles to models of real phenomena. ( Calculus, Linear Algebra )
+   -   Statistical Programming
+   -   Data Visualization
+          - involves the creation and study of visual representations of data to communicate information clearly and efficiently ( Tableau, Plotting Data )
+   -   Data Analysis
+   -   Data Management
+          - comprises everything related to managing and accessing data for reporting, analysis, and model building ( Cloud APIs, Hadoop )
+   -   Probability & Statistics
 
 ##Objective: 
 to demonstate my strong, individual programming skills and understanding.
