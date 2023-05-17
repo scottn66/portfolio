@@ -21,6 +21,7 @@ to demonstate my strong, individual programming skills and understanding.
 
 
 DISCLAIMER: lists and code guided by chatGPT.
+My experiences in programming have touched all of the following: 
 (EG>)
 
 
