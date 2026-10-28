@@ -61,6 +61,8 @@ Public repositories under [scottn66](https://github.com/scottn66):
 
 ## Development
 
+[![CI](https://github.com/scottn66/portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/scottn66/portfolio/actions/workflows/ci.yml)
+
 Requires Python 3.11 or newer and [uv](https://docs.astral.sh/uv/).
 
 ```bash
