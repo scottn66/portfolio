@@ -1,0 +1,45 @@
+[project]
+name = "portfolio-qc"
+version = "0.1.0"
+description = "Backend quality control for scottn66.github.io"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx==0.28.1",
+    "pytest==9.2.0",
+    "pytest-cov==7.1.0",
+]
+
+[project.scripts]
+portfolio-qc = "portfolio_qc.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "mypy==2.4.0",
+    "ruff==0.17.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.coverage.run]
+source = ["portfolio_qc"]
+
+[tool.coverage.report]
+show_missing = true
+
+[tool.ruff]
+target-version = "py311"
+line-length = 88
+src = ["src", "tests"]
+
+[tool.mypy]
+python_version = "3.11"
+mypy_path = "src"
+strict = true
+packages = ["portfolio_qc"]
