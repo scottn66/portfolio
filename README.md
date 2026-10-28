@@ -59,6 +59,17 @@ Public repositories under [scottn66](https://github.com/scottn66):
 10. Badges, and a generated claim-to-evidence table (claim, link, last verified date).
 11. Rename the GitHub repository to `portfolio-qc` and add it to the site's projects section.
 
+## Development
+
+Requires Python 3.11 or newer and [uv](https://docs.astral.sh/uv/).
+
+```bash
+uv sync
+uv run pytest
+```
+
+`uv sync` installs the `portfolio-qc` command. `uv run portfolio-qc --version` prints the installed version.
+
 ## History
 
 `ds_algo/`, `ml/`, the Stanford IMDB data, the MNIST files, the CS161 lecture PDFs, the vendored minFunc code, and the `.DS_Store` files remain in git history. The last commit that contains them is `7489ba766ce73773f05102f06cc68b44d6b14926`.
