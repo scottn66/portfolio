@@ -72,6 +72,8 @@ uv run pytest
 
 `uv sync` installs the `portfolio-qc` command. `uv run portfolio-qc --version` prints the installed version.
 
+`uv run portfolio-qc links` checks links on <https://scottn66.github.io> (`--base`, `--max-pages`, `--json`).
+
 ## History
 
 `ds_algo/`, `ml/`, the Stanford IMDB data, the MNIST files, the CS161 lecture PDFs, the vendored minFunc code, and the `.DS_Store` files remain in git history. The last commit that contains them is `7489ba766ce73773f05102f06cc68b44d6b14926`.
